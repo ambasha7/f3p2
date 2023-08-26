@@ -34,5 +34,5 @@ loginBtn.addEventListener('click', (event) => {
     }
 })
 signUpRedirect.addEventListener('click',()=>{
-    location.href='./index.html';
+    location.href='../index.html';
 })
